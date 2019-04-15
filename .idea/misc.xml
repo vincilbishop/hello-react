@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/DEMO/play-api-rest-tester-master" value="1443556380000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/DEMO/play-authenticate-master/samples/java/play-authenticate-usage" value="1442647380000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/DEMO/slick-pg-master/examples/play-slick-example" value="1445463742000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/glimpulse" value="1443494216000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/glimpulse-server" value="1443640629000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/hello-slick-3.0" value="1442959788000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/REFACTOR/SCALA/heroku-test" value="1443391274000" />
+        <entry key="$PROJECT_DIR$/../../../Glimpulse/application-server/project/glimpulse-server" value="1441390003000" />
+        <entry key="$PROJECT_DIR$/../../../_DEMO/slick-pg/examples/play-slick-example" value="1446503374000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
